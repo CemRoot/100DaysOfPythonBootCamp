@@ -1,10 +1,10 @@
 # Code_Camp_Challen 
-FAQ! 
+# FAQ! 
 
-### Hangi seviyede hangi konular var?
-* BEGINNER PYTHON 
+### Which subjects are at which level and what level am I at?
+*  **BEGINNER PYTHON**  
 ```
-• Variables in Python
+• Variables in Python 
 • String Manipulation
 • Input and Print Functions
 • Variable Naming Rules
@@ -23,7 +23,7 @@ FAQ!
 • Scope and Local/Global Variables
 • Debugging Techniques
 ```
-* INTERMEDIATE PYTHON 
+* **INTERMEDIATE PYTHON** 
 ```
 • Local Development Environment Setup 
 • PyCharm Tips and Tricks 
@@ -58,7 +58,7 @@ FAQ!
 • Working with date and time 
 • Hosting Python Code Online with PythonAnywhere 
 ```
-* INTERMEDIATE 
+* **INTERMEDIATE** 
 ```
 • APIs 
 • Making HTTP Requests with the Requests module 
@@ -77,7 +77,7 @@ FAQ!
 • Templating with Jinja 2 
 • WTForms 
 ```
-* ADVANCED PYTHON
+* **ADVANCED PYTHON**
 ```
 • Build Your Own REST API with Python 
 • Build Your Own Blog 
@@ -108,32 +108,51 @@ FAQ!
 • Log Transformations 
 • Residuals Analysis 
 ```
+* **PROFESSIONAL PORTFOLIO BUILDING INDEPENDENT ASSIGNMENTS**
+```
+• Text to Morse Code Converter 
+• Portfolio Website 
+• Tic Tac Toe Game 
+• Image Watermarking App 
+• Typing Speed Test 
+• Breakout Game 
+• Cafe and Wifi Website 
+• Todo List Website 
+• Disappearing Text Writing App 
+• Image Color Palette Generator 
+• Custom Web Scraper 
+• Automating the Google Dinosaur Game
+• Space Invaders Game 
+• Custom API Driven Website 
+• An Online Shop 
+• Custom Browser Automation 
+• Analyse and Visualise the Space Race 
+• Analyse Deaths Involving the Police in the US 
+• Predict Earnings using Multivariable Regression 
+```
+
+## **How is the camp going?**
+
+A new code is written every day and divided into sections.
+
+* The files you see as `[Day-1]` are exercise tasks.
+Seeing missing days in exercises **does not mean** that day has been skipped.
+This means that the exercise assignments given by the teacher that day has been completed.
 
 
+* `Beginner- Project` Folder is the folder where the projects given that day are located.
+There are also `read.me` files in this folder.
+These files contain the details of the project.
 
 
-
-Camp nasıl ilerliyor?
-
-Her gün bir yeni kod yazılır ve bölümlere ayrılır.
-
-* `[Day-1]` Olarak gördüğünüz dosyalar excercise görevleridir.
-Excercise'larda eksik günler görmeniz o günün atlandığı anlamına gelmemektedir.
-Bunun anlamı, o gün öğretmen tarafından verilen excercise ödevlerinin tamamlandığını ifade eder.
+* The `First-Read-Me-Folder` file contains the `license.md` file.
+Also in this folder is the `"Python Syntax Cheat Sheet Book"` file.
+By examining this file, you can quickly browse the information you forgot.
 
 
-* `Beginner-Project` Klasörü ise o gün verilmiş olan projelerinin bulunduğu klasördür.
-Bu klasörün içinde aynı zamanda `read.me` dosyaları bulunmaktadır. 
-Bu dosyalar projenin detaylarını içermektedir.
+* In the `First-Read-Me-Folder` file, the pdf you see with the name [`Python-Summary`](https://1drv.ms/b/s!AkOqd5zWYaEahLwMemJsOtzfD6TyFg) is the python 
+summaries I received within 100 days, all writing belongs to Cem Köylüoğlu (Only Turkish Lang.).
 
-
-* `First-Read-Me-Folder` dosyasının içinde `License.md` dosyası bulunmaktadır.
-Ayrıca bu klasörün içinde `"Python Syntax Cheat Sheet Book"` dosyası bulunmaktadır.
-Bu dosyayı inceleyerekte unuttuğunuz bilgileri hızlıca göz atabilirsiniz.
-
-- `First-Read-Me-Folder` dosyasının içinde `Python-Özeti` adında gördüğünüz pdf ise 100 Gün içinde aldığım python özetleri bulunmaktadır,
-bütün yazımı Cem Köylüoğlu'na ait olmaktadır.
-
-Aşağıda gördüğünüz sözleşme ise kursa başlamadan önce, kursa sadık kalacağıma dair bir sözdür. 
+The contract you see below is a promise before I start the course that I will stick to the course.
 
 ![image](https://user-images.githubusercontent.com/61415601/171741487-6daee181-a91d-49a1-be19-3fd596763ba7.png)
