@@ -2,7 +2,7 @@
 # FAQ! 
 
 ### Which subjects are there and what level am I at?
-*  **BEGINNER PYTHON**  
+*  **[BEGINNER PYTHON](https://github.com/CemRoot/100DaysOfPythonBootCamp/tree/main/Beginner-Project)**  
 ```
 • Variables in Python 
 • String Manipulation
