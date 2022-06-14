@@ -1,7 +1,7 @@
-# Code_Camp_Challen 
+# Code_Camp_Challenge 
 # FAQ! 
 
-### Which subjects are at which level and what level am I at?
+### Which subjects are there and what level am I at?
 *  **BEGINNER PYTHON**  
 ```
 • Variables in Python 
