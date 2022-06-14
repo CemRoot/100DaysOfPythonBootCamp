@@ -64,4 +64,4 @@ def calculator():
 
 
 calculator()
-# End of Beginner-Project\[DAY10]-Calculator.py
+# End of Beginner-Project\[DAY10]Calculator.py
