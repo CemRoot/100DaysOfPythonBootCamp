@@ -18,12 +18,12 @@
 • Positional and Keyword Arguments
 • Python Dictionaries and Lists
 • Nested Collections • Returning Functions
-• Return vs. Print                       <--- IM HERE
+• Return vs. Print                       
 • Doc Strings vs. Comments
 • Scope and Local/Global Variables
 • Debugging Techniques
 ```
-* **INTERMEDIATE PYTHON** 
+* **INTERMEDIATE PYTHON**  <--- IM HERE
 ```
 • Local Development Environment Setup 
 • PyCharm Tips and Tricks 
