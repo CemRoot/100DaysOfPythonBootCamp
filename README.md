@@ -23,9 +23,9 @@
 • Scope and Local/Global Variables
 • Debugging Techniques
 ```
-* **INTERMEDIATE PYTHON**  <--- IM HERE
+* **INTERMEDIATE PYTHON**  
 ```
-• Local Development Environment Setup 
+• Local Development Environment Setup <--- IM HERE
 • PyCharm Tips and Tricks 
 • Python Object Oriented Programming 
 • Creating Classes in Python 
