@@ -1,5 +1,6 @@
 class CoffeeMaker:
     """Models the machine that makes the coffee"""
+
     def __init__(self):
         self.resources = {
             "water": 300,
@@ -13,7 +14,7 @@ class CoffeeMaker:
         print(f"Milk: {self.resources['milk']}ml")
         print(f"Coffee: {self.resources['coffee']}g")
 
-    def is_resource_sufficient(self, drink): #burada
+    def is_resource_sufficient(self, drink):
         """Returns True when order can be made, False if ingredients are insufficient."""
         can_make = True
         for item in drink.ingredients:
