@@ -26,8 +26,8 @@
 * **INTERMEDIATE PYTHON**  
 ```
 • Local Development Environment Setup 
-• PyCharm Tips and Tricks <--- IM HERE
-• Python Object Oriented Programming 
+• PyCharm Tips and Tricks 
+• Python Object Oriented Programming <--- IM HERE
 • Creating Classes in Python 
 • Using External Python Modules/Import 
 • Getting / Setting Attributes 
