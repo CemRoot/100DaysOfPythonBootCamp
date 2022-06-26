@@ -32,8 +32,8 @@
 • Using External Python Modules/Import  
 • Getting / Setting Attributes  
 • Python Methods  
-• Class Initialisers <--- IM HERE
-• Module Aliasing 
+• Class Initialisers
+• Module Aliasing   <--- IM HERE
 • Optional, Required and Default Parameters 
 • Event Listenters 
 • Python Instances and State 
