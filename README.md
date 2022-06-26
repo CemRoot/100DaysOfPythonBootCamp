@@ -28,8 +28,8 @@
 • Local Development Environment Setup 
 • PyCharm Tips and Tricks 
 • Python Object Oriented Programming 
-• Creating Classes in Python <--- IM HERE
-• Using External Python Modules/Import 
+• Creating Classes in Python 
+• Using External Python Modules/Import  <--- IM HERE
 • Getting / Setting Attributes 
 • Python Methods 
 • Class Initialisers 
