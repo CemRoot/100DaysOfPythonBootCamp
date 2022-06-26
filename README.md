@@ -31,8 +31,8 @@
 • Creating Classes in Python 
 • Using External Python Modules/Import  
 • Getting / Setting Attributes  
-• Python Methods  <--- IM HERE
-• Class Initialisers 
+• Python Methods  
+• Class Initialisers <--- IM HERE
 • Module Aliasing 
 • Optional, Required and Default Parameters 
 • Event Listenters 
