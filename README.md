@@ -30,8 +30,8 @@
 • Python Object Oriented Programming 
 • Creating Classes in Python 
 • Using External Python Modules/Import  
-• Getting / Setting Attributes  <--- IM HERE
-• Python Methods 
+• Getting / Setting Attributes  
+• Python Methods  <--- IM HERE
 • Class Initialisers 
 • Module Aliasing 
 • Optional, Required and Default Parameters 
