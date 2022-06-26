@@ -27,8 +27,8 @@
 ```
 • Local Development Environment Setup 
 • PyCharm Tips and Tricks 
-• Python Object Oriented Programming <--- IM HERE
-• Creating Classes in Python 
+• Python Object Oriented Programming 
+• Creating Classes in Python <--- IM HERE
 • Using External Python Modules/Import 
 • Getting / Setting Attributes 
 • Python Methods 
