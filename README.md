@@ -29,8 +29,8 @@
 • PyCharm Tips and Tricks 
 • Python Object Oriented Programming 
 • Creating Classes in Python 
-• Using External Python Modules/Import  <--- IM HERE
-• Getting / Setting Attributes 
+• Using External Python Modules/Import  
+• Getting / Setting Attributes  <--- IM HERE
 • Python Methods 
 • Class Initialisers 
 • Module Aliasing 
