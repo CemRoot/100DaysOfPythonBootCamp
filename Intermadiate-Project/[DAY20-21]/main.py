@@ -20,32 +20,30 @@ screen.onkey(snake.down, "Down")  # bind the down arrow to the snake.down method
 screen.onkey(snake.left, "Left")  # bind the left arrow to the snake.left method
 screen.onkey(snake.right, "Right")  # bind the right arrow to the snake.right method
 
-
 game_is_on = True  # set the game_is_on variable to True
 
 while game_is_on:  # while the game is on
-    screen.update()  # update the screen
-    time.sleep(0.1)  # wait 0.1 seconds
-    snake.move()  # move the snake
+	screen.update()  # update the screen
+	time.sleep(0.1)  # wait 0.1 seconds
+	snake.move()  # move the snake
 
-    # Detect collision with food
-    if snake.head.distance(food) < 15:
-        food.refresh()
-        snake.extend()
-        scoreboard.increase_score()
+	# Detect collision with food
+	if snake.head.distance(food) < 15:
+		food.refresh()
+		snake.extend()
+		scoreboard.increase_score()
 
-    # Detect collision with wall
-    if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
-        game_is_on = False
-        scoreboard.game_over()
-
-    # Detect collision with tail
-    # If head collides with tail, game over
-    for segment in snake.segments[1:]:
-        if segment == snake.head:
-            continue
-        elif snake.head.distance(segment) < 10:
-            game_is_on = False
-            scoreboard.game_over()
+	# Detect collision with wall
+	if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
+		scoreboard.reset()
+		snake.reset()
+	# Detect collision with tail
+	# If head collides with tail, game over
+	for segment in snake.segments[1:]:
+		if segment == snake.head:
+			continue
+		elif snake.head.distance(segment) < 10:
+			scoreboard.reset()
+			snake.reset()
 
 screen.exitonclick()  # wait for a mouse click before closing the window

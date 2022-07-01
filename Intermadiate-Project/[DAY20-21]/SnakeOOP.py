@@ -29,7 +29,12 @@ class Snake:
         new_segment.penup()  # set the segment to be penup
         new_segment.goto(position)  # move the segment to the position
         self.segments.append(new_segment)  # add the segment to the snake's segments
-
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(1000, 1000)
+        self.segments.clear()
+        self.create_snake()
+        self.head = self.segments[0]
     def extend(self):
         self.add_segment(self.segments[-1].position())
 
