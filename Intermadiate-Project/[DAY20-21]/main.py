@@ -47,4 +47,3 @@ while game_is_on:  # while the game is on
 			snake.reset()
 
 screen.exitonclick()  # wait for a mouse click before closing the window
-

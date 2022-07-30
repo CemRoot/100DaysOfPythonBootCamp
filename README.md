@@ -39,7 +39,7 @@
 • Python Instances and State 
 • Python Turtle 
 • Game Development with Python and OOP 
-• Python Inheritance <--- IM HERE
+• Python Inheritance
 • Python Slice Function 
 • File I/O Reading and Writing to Local Files 
 • File Directories 
@@ -48,7 +48,7 @@
 • List Comprehensions 
 • Dictionary Comprehensions 
 • Packing and Unpacking Functions in Python 
-• Creating Desktop GUI Apps with Tkinter 
+• Creating Desktop GUI Apps with Tkinter   <--- IM HERE
 • Strongly Dynamic Typing 
 • Error Handling and Exceptions 
 • Try / Except/ Raise 
