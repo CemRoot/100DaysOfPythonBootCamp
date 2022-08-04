@@ -56,9 +56,9 @@
 • Local Persistence  
 • Sending Email with Python and SMTP 
 • Working with date and time 
-• Hosting Python Code Online with PythonAnywhere <--- IM HERE
+• Hosting Python Code Online with PythonAnywhere 
 ```
-* **INTERMEDIATE** 
+* **INTERMEDIATE**  <--- IM HERE
 ```
 • APIs 
 • Making HTTP Requests with the Requests module 
