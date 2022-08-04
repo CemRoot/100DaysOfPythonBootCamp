@@ -52,8 +52,8 @@
 • Strongly Dynamic Typing 
 • Error Handling and Exceptions 
 • Try / Except/ Raise 
-• Working with JSONs <--- IM HERE
-• Local Persistence 
+• Working with JSONs 
+• Local Persistence  <--- IM HERE
 • Sending Email with Python and SMTP 
 • Working with date and time 
 • Hosting Python Code Online with PythonAnywhere 
