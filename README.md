@@ -53,8 +53,8 @@
 • Error Handling and Exceptions 
 • Try / Except/ Raise 
 • Working with JSONs 
-• Local Persistence  <--- IM HERE
-• Sending Email with Python and SMTP 
+• Local Persistence  
+• Sending Email with Python and SMTP <--- IM HERE
 • Working with date and time 
 • Hosting Python Code Online with PythonAnywhere 
 ```
