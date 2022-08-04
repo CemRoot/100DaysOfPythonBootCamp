@@ -50,8 +50,8 @@
 • Packing and Unpacking Functions in Python 
 • Creating Desktop GUI Apps with Tkinter   
 • Strongly Dynamic Typing 
-• Error Handling and Exceptions <--- IM HERE
-• Try / Except/ Raise 
+• Error Handling and Exceptions 
+• Try / Except/ Raise <--- IM HERE
 • Working with JSONs 
 • Local Persistence 
 • Sending Email with Python and SMTP 
