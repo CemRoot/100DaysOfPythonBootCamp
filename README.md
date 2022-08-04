@@ -51,8 +51,8 @@
 • Creating Desktop GUI Apps with Tkinter   
 • Strongly Dynamic Typing 
 • Error Handling and Exceptions 
-• Try / Except/ Raise <--- IM HERE
-• Working with JSONs 
+• Try / Except/ Raise 
+• Working with JSONs <--- IM HERE
 • Local Persistence 
 • Sending Email with Python and SMTP 
 • Working with date and time 
