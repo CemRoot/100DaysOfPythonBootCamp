@@ -54,8 +54,8 @@
 • Try / Except/ Raise 
 • Working with JSONs 
 • Local Persistence  
-• Sending Email with Python and SMTP <--- IM HERE
-• Working with date and time 
+• Sending Email with Python and SMTP 
+• Working with date and time <--- IM HERE
 • Hosting Python Code Online with PythonAnywhere 
 ```
 * **INTERMEDIATE** 
