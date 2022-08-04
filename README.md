@@ -55,8 +55,8 @@
 • Working with JSONs 
 • Local Persistence  
 • Sending Email with Python and SMTP 
-• Working with date and time <--- IM HERE
-• Hosting Python Code Online with PythonAnywhere 
+• Working with date and time 
+• Hosting Python Code Online with PythonAnywhere <--- IM HERE
 ```
 * **INTERMEDIATE** 
 ```
