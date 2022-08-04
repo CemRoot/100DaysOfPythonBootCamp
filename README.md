@@ -49,8 +49,8 @@
 • Dictionary Comprehensions 
 • Packing and Unpacking Functions in Python 
 • Creating Desktop GUI Apps with Tkinter   
-• Strongly Dynamic Typing <--- IM HERE
-• Error Handling and Exceptions 
+• Strongly Dynamic Typing 
+• Error Handling and Exceptions <--- IM HERE
 • Try / Except/ Raise 
 • Working with JSONs 
 • Local Persistence 
