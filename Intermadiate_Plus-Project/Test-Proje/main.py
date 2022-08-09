@@ -19,7 +19,7 @@ parameters = {
 	"exclude": "current,minutely,daily",
 	"lang": "tr",
 }
-
+#test
 
 def emergency():
 
