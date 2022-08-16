@@ -38,7 +38,7 @@ headers = {
 pixel_creation_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}"
 
 today = datetime.now()
-# print(today.strftime("%Y%m%d"))
+# print(today.strftime("%Y%m%d")s
 
 pixel_data = {
     "date": today.strftime("%Y%m%d"),
