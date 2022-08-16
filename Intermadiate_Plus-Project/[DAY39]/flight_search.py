@@ -6,7 +6,6 @@ import os
 
 class FlightSearch:
     load_dotenv()
-
     def get_destination_code(self, city_name):
         location_endpoint = "https://tequila-api.kiwi.com/locations/query"
         headers = {"apikey": os.environ["TEQUILA_API_KEY"]}
