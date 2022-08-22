@@ -58,14 +58,14 @@
 • Working with date and time 
 • Hosting Python Code Online with PythonAnywhere 
 ```
-* **INTERMEDIATE**  <--- IM HERE
+* **INTERMEDIATE**  
 ```
 • APIs 
 • Making HTTP Requests with the Requests module 
 • Sending Parameters with the Request 
 • APIs with Authentication 
 • Sending SMS with Python 
-• Web Scraping with Beautiful Soup 
+• Web Scraping with Beautiful Soup <--- IM HERE
 • Browser Automation with Selenium Web Driver 
 • Automating Tinder 
 • Automating Twitter 
