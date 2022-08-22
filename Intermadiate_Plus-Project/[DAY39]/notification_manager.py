@@ -1,33 +1,39 @@
 from twilio.rest import Client
-from dotenv import load_dotenv
 import os
 import smtplib
 
-load_dotenv()
+# Twilio API Authentication Data
+account_sid = os.environ['TWILIO_ACCOUNT_SID']
+auth_token = os.environ['TWILIO_AUTH_TOKEN']
+twilio_no = os.environ["TWILIO_NO"]
+user_no = os.environ["USER_NO"]
+
+# Email id username and password
+my_email = os.environ.get("EMAIL_ID")
+password = os.environ.get("EMAIL_PASSWORD")
 
 
 class NotificationManager:
-
+    """This class is responsible for sending notifications with the deal flight details."""
     def __init__(self):
-        self.client = Client(os.environ['TWILIO_SID'], os.environ['TWILIO_TOKEN'])
-#Whatsapp sender msg
-    def send_sms(self, message):
+        self.client = Client(account_sid, auth_token)
+
+    def send_sms(self,message):
         message = self.client.messages.create(
-            from_='whatsapp:+14155238886',
             body=message,
-            to="whatsapp:+380661508739",
+            from_=twilio_no,
+            to=user_no
         )
         print(message.sid)
 
-                )
-# Mail sender
-    def send_emails(self, emails, message, google_flight_link):
-        with smtplib.SMTP(MAIL_PROVIDER_SMTP_ADDRESS) as connection:
+    def send_mails(self, emails, message, google_link):
+        with smtplib.SMTP("smtp.live.com") as connection:
             connection.starttls()
-            connection.login(MY_EMAIL, MY_PASSWORD)
-            for email in emails:
+            connection.login(user=my_email, password=password)
+            for user in emails:
                 connection.sendmail(
-                    from_addr=MY_EMAIL,
-                    to_addrs=email,
-                    msg=f"Subject:New Low Price Flight!\n\n{message}\n{google_flight_link}".encode('utf-8')
+                    from_addr=my_email,
+                    to_addrs="samrood.kl@gmail.com",
+                    msg=f"Subject:Flight deal from Flight Club\n\n{message}\nlink:{google_link}".encode("utf-8")
                 )
+
