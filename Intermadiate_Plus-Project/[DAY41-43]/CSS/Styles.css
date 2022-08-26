@@ -1,0 +1,23 @@
+<style>
+  <!--    CSS
+  arka rengi oluşturduk
+  -->
+  body
+  {
+  background-color:
+  #000480;
+  }
+  hr
+  {
+  border-style:
+  none;
+  border-top-style:
+  dotted;
+  border-width:
+  10px;
+  width:
+  30%;
+  }
+
+
+</style>
