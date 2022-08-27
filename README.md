@@ -48,24 +48,24 @@
 • List Comprehensions 
 • Dictionary Comprehensions 
 • Packing and Unpacking Functions in Python 
-• Creating Desktop GUI Apps with Tkinter   <--- IM HERE
+• Creating Desktop GUI Apps with Tkinter   
 • Strongly Dynamic Typing 
 • Error Handling and Exceptions 
 • Try / Except/ Raise 
 • Working with JSONs 
-• Local Persistence 
+• Local Persistence  
 • Sending Email with Python and SMTP 
 • Working with date and time 
 • Hosting Python Code Online with PythonAnywhere 
 ```
-* **INTERMEDIATE** 
+* **INTERMEDIATE**  
 ```
 • APIs 
 • Making HTTP Requests with the Requests module 
 • Sending Parameters with the Request 
 • APIs with Authentication 
 • Sending SMS with Python 
-• Web Scraping with Beautiful Soup 
+• Web Scraping with Beautiful Soup <--- IM HERE
 • Browser Automation with Selenium Web Driver 
 • Automating Tinder 
 • Automating Twitter 
@@ -130,6 +130,17 @@
 • Analyse Deaths Involving the Police in the US 
 • Predict Earnings using Multivariable Regression 
 ```
+## **What Did I learn?**
+* Master the Python programming language by building 100 unique projects over 100 days.
+* Learn automation, game, app and web development, data science and machine learning all using Python.
+* Be able to program in Python professionally
+* Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
+* Create a portfolio of 100 Python projects to apply for developer jobs
+* Be able to build fully fledged websites and web apps with Python
+* Be able to use Python for data science and machine learning
+* Build games like Blackjack, Pong and Snake using Python
+* Build GUIs and Desktop applications with Python
+
 
 ## **How is the camp going?**
 

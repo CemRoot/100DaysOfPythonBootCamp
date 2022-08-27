@@ -3,6 +3,20 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Intermadiate-Project/[DAY25]/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Intermadiate-Project/[DAY31]/Flash_Card_APP_Project/data/french_words.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Intermadiate-Project\[DAY25]\2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv">
           <value>
             <Attribute>
@@ -39,6 +53,20 @@
           </value>
         </entry>
         <entry key="\Intermadiate-Project\[DAY26]\NATO-alphabet-Project\nato_phonetic_alphabet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Intermadiate-Project\[DAY31]\Flash_Card_APP_Project\data\french_words.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Intermadiate_Plus-Project\[DAY32]\birthdays.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

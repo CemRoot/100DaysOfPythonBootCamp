@@ -1,0 +1,37 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+/*************TAG SELECTROS**********/
+h1 { color: blue; 
+  font-size: 32px;}
+
+
+img{
+  background-color: red
+}
+
+/************CLASS SELECTORS********/
+img:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli{
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/**********ID SELECTORS**********/
+#heading {
+  color:red
+}
+#big{
+  font-size: 1000px;
+}

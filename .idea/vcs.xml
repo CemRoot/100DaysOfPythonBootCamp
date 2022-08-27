@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intermadiate_Plus-Project/[DAY39]/flight-club" vcs="Git" />
   </component>
 </project>

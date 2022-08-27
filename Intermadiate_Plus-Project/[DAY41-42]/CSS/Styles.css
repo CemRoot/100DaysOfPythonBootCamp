@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+/*CSS arka rengi oluşturduk */
+body {
+  background-color:
+    #EAF6F6;
+}
+/* ALTIN KURAL ŞU ŞEKİLDEDİR*/
+/* selector { property : value;}
+/*  WHO?        WHAT?     HOW?
+h1{
+  color: #106161
+}
+
+h3{
+  color: #66BFBF
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
