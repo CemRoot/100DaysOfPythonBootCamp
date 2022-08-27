@@ -3,14 +3,19 @@ body {
   height: 100%;
   width: 100%;
 }
-
+/*************TAG SELECTROS**********/
 h1 { color: blue; 
   font-size: 32px;}
-/*
-/*mg{
+
+
+img{
   background-color: red
 }
-*/
+
+/************CLASS SELECTORS********/
+img:hover {
+  background-color: gold;
+}
 
 .bacon {
   background-color: green;
@@ -18,4 +23,15 @@ h1 { color: blue;
 
 .broccoli{
   background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/**********ID SELECTORS**********/
+#heading {
+  color:red
+}
+#big{
+  font-size: 1000px;
 }
