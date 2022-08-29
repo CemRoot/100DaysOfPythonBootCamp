@@ -158,10 +158,11 @@ a:hover {
 
 .whatsapp {
   position: fixed;
-  background-color: red;
-  left: auto;
-
+  bottom: 0;
+  right: 0;
 }
+
+
 
 
 .btn {
