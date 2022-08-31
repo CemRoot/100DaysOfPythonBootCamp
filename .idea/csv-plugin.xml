@@ -66,13 +66,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Intermadiate_Plus-Project\[DAY32]\birthdays.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
