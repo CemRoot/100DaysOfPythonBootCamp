@@ -11,16 +11,13 @@ movie_web_page = response.text
 soup = BeautifulSoup(movie_web_page, "html.parser")
 articles = soup.find_all(name="h3", class_="title")
 article_texts = []
-article_links = []
 for article_tag in articles:
 	text = article_tag.getText()
 	article_texts.append(text)
 print(article_texts)
 # Save file
-with open("movie.txt", "w") as file:
+with open("movie.txt", "w", encoding="utf-8") as file:
 	for text in article_texts:
 		file.write(text + "\n")
 
 # Write your code above this line 👆
-
-
