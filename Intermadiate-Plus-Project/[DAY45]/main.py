@@ -30,3 +30,21 @@ highest_upvote_index = list_upvotes.index(highest_upvote)
 
 print(article_texts[highest_upvote_index])
 print(article_links[highest_upvote_index])
+
+#
+# with open("website.html", encoding="utf8") as file:
+# 	contents = file.read()
+#
+# soup = BeautifulSoup(contents, "html.parser")
+# # print(soup.title)
+# # print(soup.title.string)
+# # For find something
+# all_anchor_tags = soup.find_all(name="a")
+# for tag in all_anchor_tags:
+# 	# print(tag.getText())
+# 	# Find link our site code
+# 	print(tag.getText("href"))
+#
+# # For heading found
+# heading = soup.find(name="h1", id="name")
+# print(heading)
