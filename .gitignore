@@ -152,4 +152,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-!/Intermadiate-Plus-Project/\[DAY46\]/token.txt
+/Intermadiate-Plus-Project/\[DAY46\]/token.txt
