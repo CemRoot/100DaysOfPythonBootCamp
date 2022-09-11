@@ -37,4 +37,24 @@ search_box.send_keys('Python Developer Intern')
 # Enter the search box
 search_button = driver.find_element(By.CSS_SELECTOR, ".jobs-search-box__submit-button")
 search_button.click()
+# Filter to apply 'Easy Apply' jobs button
+easy_apply_button = driver.find_element(By.CSS_SELECTOR, ".search-reusables__filter-binary-toggle")
+easy_apply_button.click()
+# Apply to the first job
+job = driver.find_element(By.CSS_SELECTOR, ".jobs-search-results__list-item")   # job-card-container
+job.click()
+time.sleep(1)
+# Apply to the first job Easy Apply button
+apply_button = driver.find_element(By.CSS_SELECTOR, ".jobs-apply-button")
+apply_button.click()
+# Continue to next page
+time.sleep(1)
+continue_button = driver.find_element(By.CSS_SELECTOR, ".artdeco-button--3")
+continue_button.click()
+# Continue to next page
+continue_button = driver.find_element(By.CSS_SELECTOR, ".artdeco-button--primary")
+continue_button.click()
+# Submit Application
+submit_button = driver.find_element(By.CSS_SELECTOR, ".artdeco-button--primary")
+submit_button.click()
 
