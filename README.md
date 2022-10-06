@@ -65,8 +65,8 @@
 • Sending Parameters with the Request 
 • APIs with Authentication 
 • Sending SMS with Python 
-• Web Scraping with Beautiful Soup <--- IM HERE
-• Browser Automation with Selenium Web Driver 
+• Web Scraping with Beautiful Soup 
+• Browser Automation with Selenium Web Driver <--- IM HERE
 • Automating Tinder 
 • Automating Twitter 
 • Automating Linkedln 
