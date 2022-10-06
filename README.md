@@ -77,9 +77,9 @@
 • Templating with Jinja 
 • WTForms 2 
 ```
-* **ADVANCED PYTHON** <--- IM HERE
+* **ADVANCED PYTHON** 
 ```
-• Build Your Own REST API with Python 
+• Build Your Own REST API with Python <--- IM HERE
 • Build Your Own Blog 
 • Databases with SQLite 
 • Dataframe Inspection 
