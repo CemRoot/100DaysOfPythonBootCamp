@@ -74,8 +74,8 @@
 • Web Development with Flask 
 • Command Line 
 • Python Decorators 
-• Templating with Jinja 2 <--- IM HERE
-• WTForms 
+• Templating with Jinja 
+• WTForms 2 <--- IM HERE
 ```
 * **ADVANCED PYTHON**
 ```
