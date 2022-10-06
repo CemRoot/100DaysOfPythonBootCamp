@@ -70,8 +70,8 @@
 • Automating Tinder 
 • Automating Twitter 
 • Automating Linkedln 
-• Automating Instagram <--- IM HERE
-• Web Development with Flask 
+• Automating Instagram 
+• Web Development with Flask <--- IM HERE
 • Command Line 
 • Python Decorators 
 • Templating with Jinja 2 
