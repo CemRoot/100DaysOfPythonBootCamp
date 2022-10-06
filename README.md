@@ -75,9 +75,9 @@
 • Command Line 
 • Python Decorators 
 • Templating with Jinja 
-• WTForms 2 <--- IM HERE
+• WTForms 2 
 ```
-* **ADVANCED PYTHON**
+* **ADVANCED PYTHON** <--- IM HERE
 ```
 • Build Your Own REST API with Python 
 • Build Your Own Blog 
