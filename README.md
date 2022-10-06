@@ -73,8 +73,8 @@
 • Automating Instagram 
 • Web Development with Flask 
 • Command Line 
-• Python Decorators <--- IM HERE
-• Templating with Jinja 2 
+• Python Decorators 
+• Templating with Jinja 2 <--- IM HERE
 • WTForms 
 ```
 * **ADVANCED PYTHON**
