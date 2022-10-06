@@ -66,8 +66,8 @@
 • APIs with Authentication 
 • Sending SMS with Python 
 • Web Scraping with Beautiful Soup 
-• Browser Automation with Selenium Web Driver <--- IM HERE
-• Automating Tinder 
+• Browser Automation with Selenium Web Driver 
+• Automating Tinder <--- IM HERE
 • Automating Twitter 
 • Automating Linkedln 
 • Automating Instagram 
