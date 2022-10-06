@@ -69,8 +69,8 @@
 • Browser Automation with Selenium Web Driver 
 • Automating Tinder 
 • Automating Twitter 
-• Automating Linkedln <--- IM HERE
-• Automating Instagram 
+• Automating Linkedln 
+• Automating Instagram <--- IM HERE
 • Web Development with Flask 
 • Command Line 
 • Python Decorators 
