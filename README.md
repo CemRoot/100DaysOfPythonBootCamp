@@ -68,8 +68,8 @@
 • Web Scraping with Beautiful Soup 
 • Browser Automation with Selenium Web Driver 
 • Automating Tinder 
-• Automating Twitter <--- IM HERE
-• Automating Linkedln 
+• Automating Twitter 
+• Automating Linkedln <--- IM HERE
 • Automating Instagram 
 • Web Development with Flask 
 • Command Line 
