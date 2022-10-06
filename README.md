@@ -72,8 +72,8 @@
 • Automating Linkedln 
 • Automating Instagram 
 • Web Development with Flask 
-• Command Line <--- IM HERE
-• Python Decorators 
+• Command Line 
+• Python Decorators <--- IM HERE
 • Templating with Jinja 2 
 • WTForms 
 ```
