@@ -67,8 +67,8 @@
 • Sending SMS with Python 
 • Web Scraping with Beautiful Soup 
 • Browser Automation with Selenium Web Driver 
-• Automating Tinder <--- IM HERE
-• Automating Twitter 
+• Automating Tinder 
+• Automating Twitter <--- IM HERE
 • Automating Linkedln 
 • Automating Instagram 
 • Web Development with Flask 
