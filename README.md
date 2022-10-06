@@ -79,8 +79,8 @@
 ```
 * **ADVANCED PYTHON** 
 ```
-• Build Your Own REST API with Python <--- IM HERE
-• Build Your Own Blog 
+• Build Your Own REST API with Python 
+• Build Your Own Blog <--- IM HERE
 • Databases with SQLite 
 • Dataframe Inspection 
 • Data Cleaning 
