@@ -34,7 +34,7 @@ all_prices = [price.get_text().split("+")[0] for price in all_price_elements if 
 chrome_driver_path = YOUR_PATH_TO_THE_CHROME_DRIVER
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
-for n in range(len(all_links)):
+for n, item in enumerate(all_links):
     driver.get(YOUR_GOOGLE_FORM_LINK)
     
     time.sleep(2)
@@ -48,5 +48,5 @@ for n in range(len(all_links)):
 
     address.send_keys(all_addresses[n])
     price.send_keys(all_prices[n])
-    link.send_keys(all_links[n])
+    link.send_keys(item)
     submit_button.click()

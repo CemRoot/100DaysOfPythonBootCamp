@@ -49,7 +49,7 @@ for element in all_price_elements:
 chrome_driver_path = YOUR_PATH_HERE
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
-for n in range(len(all_links)):
+for n, item in enumerate(all_links):
     # Substitute your own Google Form URL here 👇
     driver.get(URL_TO_YOUR_GOOGLE_FORM)
 
@@ -64,5 +64,5 @@ for n in range(len(all_links)):
 
     address.send_keys(all_addresses[n])
     price.send_keys(all_prices[n])
-    link.send_keys(all_links[n])
+    link.send_keys(item)
     submit_button.click()
